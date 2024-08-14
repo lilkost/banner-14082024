@@ -196,3 +196,25 @@
     line-height: 22px;
     letter-spacing: 0.009em;
 }
+.qs-text-block {
+    max-width: 1270px;
+    width: 100%;
+    padding-inline: 15px;
+    font-family: var(--qs-font-family);
+    margin-inline: auto;
+    margin-bottom: 100px;
+}
+
+.qs-text-block__title{
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39.01px;
+    margin-bottom: 25px;
+}
+
+.qs-text-block__text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.009em;
+}
